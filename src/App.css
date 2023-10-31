@@ -5,6 +5,7 @@
 
 body {
   background-color: #424949;
+  box-sizing: border-box;
 }
 .box {
   width: 500px;
